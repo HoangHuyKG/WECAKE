@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/WECAKE/static/css/main.a2bc80ec.chunk.css",
-    "main.js": "/WECAKE/static/js/main.e0735e3e.chunk.js",
-    "main.js.map": "/WECAKE/static/js/main.e0735e3e.chunk.js.map",
-    "runtime-main.js": "/WECAKE/static/js/runtime-main.4f8819bd.js",
-    "runtime-main.js.map": "/WECAKE/static/js/runtime-main.4f8819bd.js.map",
-    "static/js/2.b7df0148.chunk.js": "/WECAKE/static/js/2.b7df0148.chunk.js",
-    "static/js/2.b7df0148.chunk.js.map": "/WECAKE/static/js/2.b7df0148.chunk.js.map",
-    "static/js/3.fc39b07c.chunk.js": "/WECAKE/static/js/3.fc39b07c.chunk.js",
-    "static/js/3.fc39b07c.chunk.js.map": "/WECAKE/static/js/3.fc39b07c.chunk.js.map",
+    "main.css": "/WECAKE/static/css/main.e2c96389.chunk.css",
+    "main.js": "/WECAKE/static/js/main.ff8e3e44.chunk.js",
+    "main.js.map": "/WECAKE/static/js/main.ff8e3e44.chunk.js.map",
+    "runtime-main.js": "/WECAKE/static/js/runtime-main.62bc1097.js",
+    "runtime-main.js.map": "/WECAKE/static/js/runtime-main.62bc1097.js.map",
+    "static/js/2.3f29fe80.chunk.js": "/WECAKE/static/js/2.3f29fe80.chunk.js",
+    "static/js/2.3f29fe80.chunk.js.map": "/WECAKE/static/js/2.3f29fe80.chunk.js.map",
+    "static/js/3.31473d1e.chunk.js": "/WECAKE/static/js/3.31473d1e.chunk.js",
+    "static/js/3.31473d1e.chunk.js.map": "/WECAKE/static/js/3.31473d1e.chunk.js.map",
     "index.html": "/WECAKE/index.html",
-    "precache-manifest.03438dee8f6144b317fadc641d35d244.js": "/WECAKE/precache-manifest.03438dee8f6144b317fadc641d35d244.js",
+    "precache-manifest.00e1cdb9e1957a4ad4a5f7e2811d7c98.js": "/WECAKE/precache-manifest.00e1cdb9e1957a4ad4a5f7e2811d7c98.js",
     "service-worker.js": "/WECAKE/service-worker.js",
-    "static/css/main.a2bc80ec.chunk.css.map": "/WECAKE/static/css/main.a2bc80ec.chunk.css.map",
-    "static/js/2.b7df0148.chunk.js.LICENSE.txt": "/WECAKE/static/js/2.b7df0148.chunk.js.LICENSE.txt"
+    "static/css/main.e2c96389.chunk.css.map": "/WECAKE/static/css/main.e2c96389.chunk.css.map",
+    "static/js/2.3f29fe80.chunk.js.LICENSE.txt": "/WECAKE/static/js/2.3f29fe80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f8819bd.js",
-    "static/js/2.b7df0148.chunk.js",
-    "static/css/main.a2bc80ec.chunk.css",
-    "static/js/main.e0735e3e.chunk.js"
+    "static/js/runtime-main.62bc1097.js",
+    "static/js/2.3f29fe80.chunk.js",
+    "static/css/main.e2c96389.chunk.css",
+    "static/js/main.ff8e3e44.chunk.js"
   ]
 }
