@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WECAKE/static/css/main.e2c96389.chunk.css",
-    "main.js": "/WECAKE/static/js/main.ff8e3e44.chunk.js",
-    "main.js.map": "/WECAKE/static/js/main.ff8e3e44.chunk.js.map",
+    "main.js": "/WECAKE/static/js/main.b11d6ed7.chunk.js",
+    "main.js.map": "/WECAKE/static/js/main.b11d6ed7.chunk.js.map",
     "runtime-main.js": "/WECAKE/static/js/runtime-main.62bc1097.js",
     "runtime-main.js.map": "/WECAKE/static/js/runtime-main.62bc1097.js.map",
     "static/js/2.3f29fe80.chunk.js": "/WECAKE/static/js/2.3f29fe80.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.31473d1e.chunk.js": "/WECAKE/static/js/3.31473d1e.chunk.js",
     "static/js/3.31473d1e.chunk.js.map": "/WECAKE/static/js/3.31473d1e.chunk.js.map",
     "index.html": "/WECAKE/index.html",
-    "precache-manifest.00e1cdb9e1957a4ad4a5f7e2811d7c98.js": "/WECAKE/precache-manifest.00e1cdb9e1957a4ad4a5f7e2811d7c98.js",
+    "precache-manifest.c2fb5927bd99e904189e627266c60aa1.js": "/WECAKE/precache-manifest.c2fb5927bd99e904189e627266c60aa1.js",
     "service-worker.js": "/WECAKE/service-worker.js",
     "static/css/main.e2c96389.chunk.css.map": "/WECAKE/static/css/main.e2c96389.chunk.css.map",
     "static/js/2.3f29fe80.chunk.js.LICENSE.txt": "/WECAKE/static/js/2.3f29fe80.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.62bc1097.js",
     "static/js/2.3f29fe80.chunk.js",
     "static/css/main.e2c96389.chunk.css",
-    "static/js/main.ff8e3e44.chunk.js"
+    "static/js/main.b11d6ed7.chunk.js"
   ]
 }

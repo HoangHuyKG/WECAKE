@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5dcffc92b2aa3fe33065b18c2927bef",
+    "revision": "44c58b08c298916fc7bdcc484320740a",
     "url": "/WECAKE/index.html"
   },
   {
-    "revision": "9e45b25ba260bc8d3efd",
+    "revision": "ed87feee46351e9fdb2a",
     "url": "/WECAKE/static/css/main.e2c96389.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WECAKE/static/js/3.31473d1e.chunk.js"
   },
   {
-    "revision": "9e45b25ba260bc8d3efd",
-    "url": "/WECAKE/static/js/main.ff8e3e44.chunk.js"
+    "revision": "ed87feee46351e9fdb2a",
+    "url": "/WECAKE/static/js/main.b11d6ed7.chunk.js"
   },
   {
     "revision": "249651532d4dd9a817e8",
